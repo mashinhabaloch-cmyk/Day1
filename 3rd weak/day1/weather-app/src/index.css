@@ -1,0 +1,29 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f4f6f8;
+}
+
+.app {
+  text-align: center;
+  margin-top: 40px;
+}
+
+.card {
+  background: white;
+  padding: 20px;
+  width: 320px;
+  margin: 20px auto;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+input {
+  padding: 6px;
+  width: 60px;
+  margin-bottom: 10px;
+}
+
+button {
+  padding: 6px 12px;
+  cursor: pointer;
+}
